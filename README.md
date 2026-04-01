@@ -83,5 +83,4 @@ A $2.3M revenue portfolio was silently losing profit due to:
 
 ---
 
-## 🔗 Power BI File
-(Upload to Google Drive and paste link in pbix-file-link.txt)
+
